@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Gramin Bus - Simple Bus Tracker",
+  "description": "A rural-friendly bus tracking application featuring multilingual support, voice search, and community-driven updates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
